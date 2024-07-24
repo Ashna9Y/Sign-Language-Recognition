@@ -17,6 +17,7 @@ TOOLS USED:
 
 
 ENTIRE PROJECT DOCUMENTATION:
+
 SIGN LANGUAGE RECOGNITION.docx
 
 
@@ -28,6 +29,7 @@ PROJECT WORKFLOW:
 
 
 FILES:
+
 model.py - preprocessing data, training model and saving model's state dictionary
 
 inference.py - loading pretrained model from model.py and integrating it with OpenCV library to make real time predictions
