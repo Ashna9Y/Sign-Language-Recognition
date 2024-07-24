@@ -2,11 +2,19 @@ DATASET: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 
 
+
+
+
 DEPENDENCIES USED:
 
-1.PyTorch
+1. PyTorch
+   
+2. OpenCV
 
-2.OpenCV
+
+
+
+
 
 
 
@@ -16,9 +24,7 @@ TOOLS USED:
 
 
 
-ENTIRE PROJECT DOCUMENTATION:
-
-SIGN LANGUAGE RECOGNITION.docx
+ENTIRE PROJECT DOCUMENTATION:        SIGN LANGUAGE RECOGNITION.docx
 
 
 
