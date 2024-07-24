@@ -2,8 +2,10 @@ DATASET: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 
 
-DEPENDENCIES USED:  
+DEPENDENCIES USED:
+
 1.PyTorch
+
 2.OpenCV
 
 
