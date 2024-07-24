@@ -42,3 +42,7 @@ inference.py - loading pretrained model from model.py and integrating it with Op
 
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/09a82bf8-8f8d-4f38-998c-ec4ddd4c898f">
 
+
+MODEL ACCURACY:
+
+93.92%
